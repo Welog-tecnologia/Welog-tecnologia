@@ -1,3 +1,8 @@
+<!-- Banner institucional WELOG -->
+<p align="center">
+  <img src="https://welog.com.br/img/logo-1.png" alt="Banner WELOG Tecnologia" width="300"/>
+</p>
+
 <h1>🚀 WELOG - TECNOLOGIA</h1>
 <h3 align="center">Criando o futuro com um código de cada vez.</h3>
 <br>
@@ -16,7 +21,6 @@
 A **WELOG - TECNOLOGIA** é especialista em desenvolvimento de sistemas web, aplicativos móveis e soluções digitais personalizadas para empresas de todos os portes.
 
 - 🖥️ **Sistemas Web** robustos, responsivos e sob medida
-- 📱 **Aplicativos Mobile** (Android e iOS) com experiência de uso intuitiva
 - 🔗 **Integrações e APIs** seguras e de alta performance
 - ☁️ **Soluções em Nuvem** para escalabilidade e disponibilidade
 - 👨‍💻 **Consultoria e Suporte** completos do início ao pós-implantação
@@ -44,7 +48,6 @@ A **WELOG - TECNOLOGIA** é especialista em desenvolvimento de sistemas web, apl
 
 - +50 sistemas web entregues
 - +30 aplicativos publicados
-- +10 anos de experiência no mercado
 
 ---
 
