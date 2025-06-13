@@ -1,8 +1,3 @@
-<!-- Banner animado (substitua pelo seu GIF/banner) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVhdmFpY3pkeHB2ZTkzOXFuOXVxcDh1b2g2ejJoemQ5N3VmaWd3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D6n0lBqQw0m1r5vE8U/giphy.gif" alt="Banner WELOG Tecnologia" width="600"/>
-</p>
-
 <h1 align="center">🚀 WELOG - TECNOLOGIA</h1>
 <h3 align="center">Criando o futuro com um código de cada vez.</h3>
 
