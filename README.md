@@ -1,6 +1,6 @@
 <!-- Banner institucional WELOG -->
 <p align="center">
-  <img src="https://welog.com.br/img/logo-1.png" alt="Banner WELOG Tecnologia" width="300"/>
+  <img src="https://welog.com.br/img/welog.png" alt="Banner WELOG Tecnologia" width="300"/>
 </p>
 
 <h1>🚀 WELOG - TECNOLOGIA</h1>
