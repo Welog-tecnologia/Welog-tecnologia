@@ -5,7 +5,7 @@
   </p>
 </a>
 
-<h1><center>🚀 WELOG - TECNOLOGIA</center></h1>
+<h1 align="center">🚀 WELOG - TECNOLOGIA</h1>
 <h3 align="center">Criando o futuro com um código de cada vez.</h3>
 <br>
 <p align="center">
