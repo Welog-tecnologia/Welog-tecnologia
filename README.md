@@ -52,14 +52,4 @@ A **WELOG - TECNOLOGIA** é especialista em desenvolvimento de sistemas web, apl
 - +30 aplicativos publicados
 
 ---
-
-## 💬 Entre em contato
-
-<p align="center">
-  <a href="mailto:contato@welog.com.br"><img src="https://media.giphy.com/media/3o7aCUcSU2QF1F1Tmw/giphy.gif" width="50"></a>
-  <a href="https://www.welog.com.br/" target="_blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNqcGd6d29heWhvZDV0YjZ1NWF0Ym45bThxZGViOG9sdWhodDV6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rHZlF5Kt5Zx2/giphy.gif" width="50"></a>
-</p>
-
----
-
 <p align="center"><i>Transformando ideias em inovação tecnológica.</i></p>
