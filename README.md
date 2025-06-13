@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🚀 WELOG - TECNOLOGIA</h1>
-<h3 align="center">Transformando ideias em soluções digitais inovadoras</h3>
+<h3 align="center">Criando o futuro com um código de cada vez.</h3>
 
 <p align="center">
   <a href="https://www.welog.com.br/" target="_blank"><img src="https://img.shields.io/badge/Site-Visite-00c3ff?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Site WELOG"></a>
@@ -62,4 +62,4 @@ A **WELOG - TECNOLOGIA** é especialista em desenvolvimento de sistemas web, apl
 
 ---
 
-<p align="center"><i>WELOG - Inovação, agilidade e tecnologia a favor do seu negócio.</i></p>
+<p align="center"><i>Transformando ideias em inovação tecnológica.</i></p>
